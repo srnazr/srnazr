@@ -1,30 +1,22 @@
 <div align="center">
 
-<img src="img 1.gif" width="100%" alt="Banner"/>
+<img src="img1.jpg" width="100%" alt="Banner"/>
 
 </div>
 
----
+## 𑣲 About Me
 
-## About Me
+### Hi! I'm Serena, welcome to my profile! ˚ʚ♡ɞ˚
 
-```yaml
-name: Serena Zaarour
-location: "Exploring the digital universe"
-current_focus: "Backend Systems & Clean Architecture"
-education: "Computer Engineering | 42 Student"
-fun_fact: "I bridge technology and art through creative web experiences"
-```
-
-- Currently building **full-stack & API-driven projects**
-- Learning **AI and data-driven applications**
-- Passionate about **clean architecture & databases**
-- Also an **artist** who loves creative web experiences
-- I enjoy turning ideas into **real-world products**
+- Education: **Computer Engineering & 42 Student**
+- Currently building: **full-stack & API-driven projects**
+- Learning: **AI and data-driven applications**
+- Passionate about: **clean architecture & databases**
+- Also an **artist** who loves bridging technology and art through creative web experiences
 
 ---
 
-## Tech Stack
+## 𑣲 Tech Stack
 
 <div align="center">
 
@@ -51,33 +43,34 @@ fun_fact: "I bridge technology and art through creative web experiences"
 ### AI & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-## GitHub Stats
+## 𑣲 GitHub Stats
 
 <div align="center">
-  
-<a href="https://github.com/srnazr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8FA366&icon_color=8FA366&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnazr&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8FA366&text_color=FFFFFF"/>
-</a>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=srnazr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8FA366&icon_color=8FA366&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=srnazr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8FA366&icon_color=8FA366&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+</picture>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=srnazr&theme=dark&hide_border=true&background=0D1117&ring=8FA366&fire=8FA366&currStreakLabel=8FA366)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srnazr&layout=compact&hide_border=true&bg_color=0D1117&title_color=8FA366&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srnazr&layout=compact&hide_border=true&bg_color=0D1117&title_color=8FA366&text_color=FFFFFF" />
+</picture>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## Activity Graph
+## 𑣲 Activity Graph
 
 <div align="center">
   
@@ -87,33 +80,26 @@ fun_fact: "I bridge technology and art through creative web experiences"
 
 ---
 
-## Connect With Me
+## 𑣲 Connect With Me
 
 <div align="center">
   
 <a href="https://discord.gg/srnaz">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" />
 </a>
-<a href="https://linkedin.com/in/Serena Zaarour">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/serenazaarour">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" />
 </a>
 <a href="https://x.com/renaa_dev">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark" />
 </a>
 <a href="mailto:serenazaarour@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
 </a>
 
 </div>
 
----
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=srnazr&color=8FA366&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-  <img src="img 2.jpg" width="100%" alt="Footer"/>
+  <img src="bottom.png" width="100%" alt="Footer"/>
 </div>
