@@ -90,9 +90,9 @@
 <a href="https://linkedin.com/in/serenazaarour">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" />
 </a>
-<a href="https://x.com/renaa_dev">
+<!-- <a href="https://x.com/renaa_dev">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark" />
-</a>
+</a> -->
 <a href="mailto:serenazaarour@gmail.com">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
 </a>
