@@ -39,12 +39,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,blender,photoshop,illustrator&theme=dark&perline=8" />
 </p>
-
+<!--
 ### AI & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn&theme=dark" />
 </p>
+-->
 
 </div>
 
