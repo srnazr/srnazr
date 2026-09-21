@@ -11,7 +11,7 @@ CompE Undergraduate • SWE • Learning AI/ML
 ### **.get(about_me):**
 <table border="0" width="100%">
   <tr style="border: none;">
-    <td width="70%" valign="top">
+    <td width="70%" align="left" valign="middle">
 
   𑣲 **Education:** CompE @ UA (conc: SWE) & 42 Beirut<br>
   𑣲 **Learning:** AI & DevOps <br>
@@ -19,7 +19,7 @@ CompE Undergraduate • SWE • Learning AI/ML
   𑣲 **Languages:** English, French, Arabic & Japanese
     </td>
     <td width="30%" align="center" valign="top">
-      <img src="cat.jpg" alt="Cat on laptop" width="50%" />
+      <img src="cat.jpg" alt="Cat on laptop" width="70%" />
     </td>
   </tr>
 </table>
