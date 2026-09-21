@@ -7,24 +7,22 @@ CompE Undergraduate • SWE • Learning AI/ML
 <img src="loading.gif" width="25%" alt="loading"/>
 
 </div>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td width="70%" valign="top" style="border: none;">
 
-<table border="0" width="100%">
-  <tr style="border: none;"
-    <td width="70%" valign="top">
+### **.get(about_me):**
 
-  ### **.get(about_me):**
-
-  𑣲 **Education:** CompE @ UA (conc: SWE) & 42 Beirut<br>
-  𑣲 **Learning:** AI & DevOps <br>
-  𑣲 **Building:** Web, Automations & CV/Classification projects <br>
-  𑣲 **Languages:** English, French, Arabic & Japanese
+𑣲 **Education:** CompE @ UA (conc: SWE) & 42 Beirut<br>
+𑣲 **Learning:** AI & DevOps <br>
+𑣲 **Building:** Web, Automations & CV/Classification projects <br>
+𑣲 **Languages:** English, French, Arabic & Japanese
     </td>
-    <td width="30%" align="center" valign="top">
+    <td width="30%" align="center" valign="top" style="border: none;">
       <img src="cat.jpg" alt="Cat on laptop" width="70%" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### **.get(tech_stack):**
@@ -82,7 +80,7 @@ CompE Undergraduate • SWE • Learning AI/ML
 
 ### **.get(contact_info):**
 <table border="0" width="100%">
-  <tr style="border: none;"
+  <tr style="border: none;">
     <td width="70%" align="left" valign="middle">
 
 ### Get in touch! ♡
