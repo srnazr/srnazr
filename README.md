@@ -1,105 +1,103 @@
 <div align="center">
 
-<img src="img2.jpg" width="100%" alt="Banner"/>
+### **Hello! I'm Serena. Welcome to my Github! ˚.⋆** <br>
+
+CompE Undergraduate • SWE • Learning AI/ML
+
+<img src="loading.gif" width="25%" alt="loading"/>
 
 </div>
 
-## 𑣲 About Me
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" valign="top">
 
-### Hi! I'm Serena, welcome to my profile! ˚ʚ♡ɞ˚
+  ### **.get(about_me):**
 
-- Education: **Computer Engineering & 42 Student**
-- Currently building: **full-stack & API-driven projects**
-- Learning: **AI and data-driven applications**
-- Passionate about: **clean architecture & databases**
-- Also an **artist** who loves bridging technology and art through creative web experiences
-
----
-
-## 𑣲 Tech Stack
-
-<div align="center">
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,bash&theme=dark&perline=8" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,vite&theme=dark&perline=8" />
-</p>
-
-### Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,vercel,netlify&theme=dark&perline=8" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,blender,photoshop,illustrator&theme=dark&perline=8" />
-</p>
-
-### AI & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn&theme=dark" />
-</p>
-
-</div>
+  𑣲 **Education:** CompE @ UA (conc: SWE) & 42 Beirut<br>
+  𑣲 **Learning:** AI & DevOps <br>
+  𑣲 **Building:** Web, Automations & CV/Classification projects <br>
+  𑣲 **Languages:** English, French, Arabic & Japanese
+    </td>
+    <td width="30%" align="center" valign="top">
+      <img src="cat.jpg" alt="Cat on laptop" width="70%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 𑣲 GitHub Stats
+### **.get(tech_stack):**
 
-<div align="center">
+<details>
+  <summary>𑣲 <b>Languages</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/C-1F2328?style=flat-square" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-1F2328?style=flat-square" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-1F2328?style=flat-square" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-1F2328?style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-1F2328?style=flat-square" alt="JavaScript"/>
+</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=srnazr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8FA366&icon_color=8FA366&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=srnazr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8FA366&icon_color=8FA366&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-</picture>
+<details>
+  <summary>𑣲 <b>Frameworks & Libraries</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Spring-1F2328?style=flat-square" alt="Spring"/>
+  <img src="https://img.shields.io/badge/FastAPI-1F2328?style=flat-square" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React-1F2328?style=flat-square" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-1F2328?style=flat-square" alt="Node.js"/>
+</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srnazr&layout=compact&hide_border=true&bg_color=0D1117&title_color=8FA366&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=srnazr&layout=compact&hide_border=true&bg_color=0D1117&title_color=8FA366&text_color=FFFFFF" />
-</picture>
+<details>
+  <summary>𑣲 <b>Tools</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-1F2328?style=flat-square" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-1F2328?style=flat-square" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MySQL-1F2328?style=flat-square" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Figma-1F2328?style=flat-square" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Blender-1F2328?style=flat-square" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Illustrator-1F2328?style=flat-square" alt="Illustrator"/>
+</details>
 
-<br/><br/>
-
-</div>
+<details>
+  <summary>𑣲 <b>AI/ML</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/TensorFlow-1F2328?style=flat-square" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-1F2328?style=flat-square" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1F2328?style=flat-square" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/LangChain-1F2328?style=flat-square" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1F2328?style=flat-square" alt="LangGraph"/>
+</details>
 
 ---
 
-## 𑣲 Activity Graph
+### **.get(stats):**
 
-<div align="center">
-  
-[![Serena's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srnazr&bg_color=0D1117&color=8FA366&line=8FA366&point=FFFFFF&area=true&area_color=8FA366&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 𑣲 Connect With Me
-
-<div align="center">
-  
-<a href="https://discord.gg/srnaz">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" />
-</a>
-<a href="https://linkedin.com/in/serenazaarour">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" />
-</a>
-<!-- <a href="https://x.com/renaa_dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark" />
-</a> -->
-<a href="mailto:serenazaarour@gmail.com">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&border_color=888888#gh-light-mode-only" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444#gh-dark-mode-only" alt="GitHub Stats" />
 </a>
 
-</div>
+---
 
+### **.get(contact_info):**
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" align="left" valign="middle">
+
+### Get in touch! ♡
+
+[Discord](https://discord.gg/srnaz) · [LinkedIn](https://linkedin.com/in/serenazaarour) · [Email](mailto:serenazaarour@gmail.com) <br><br>
+<i> Coffee chats & more!<i>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="coffee.jpg" alt="Get in touch!" width="80%" />
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
-  <img src="bottom.png" width="100%" alt="Footer"/>
+<i>Aaaaaand back to work...</i>
 </div>
