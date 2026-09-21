@@ -8,22 +8,22 @@ CompE Undergraduate • SWE • Learning AI/ML
 
 </div>
 
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div align="left" style="width: 70%;">
+<table border="0" width="100%">
+  <tr style="border: none;">
+    <td width="70%" valign="top">
 
-### **.get(about_me):**
+  ### **.get(about_me):**
 
-𑣲 **Education:** CompE @ UA (conc: SWE) & 42 Beirut<br>
-𑣲 **Learning:** AI & DevOps <br>
-𑣲 **Building:** Web, Automations & CV/Classification projects <br>
-𑣲 **Languages:** English, French, Arabic & Japanese
-    </div>
-    <div align="center" style="width: 30%;">
+  𑣲 **Education:** CompE @ UA (conc: SWE) & 42 Beirut<br>
+  𑣲 **Learning:** AI & DevOps <br>
+  𑣲 **Building:** Web, Automations & CV/Classification projects <br>
+  𑣲 **Languages:** English, French, Arabic & Japanese
+    </td>
+    <td width="30%" align="center" valign="top">
       <img src="cat.jpg" alt="Cat on laptop" width="70%" />
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,30 +74,27 @@ CompE Undergraduate • SWE • Learning AI/ML
 ### **.get(stats):**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&border_color=888888">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&border_color=888888">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&border_color=888888#gh-light-mode-only" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444#gh-dark-mode-only" alt="GitHub Stats" />
 </a>
 
 ---
 
 ### **.get(contact_info):**
-<div>
-  <div align="left" style="width: 70%; float: left;">
+<table border="0" width="100%">
+  <tr style="border: none;">
+    <td width="70%" align="left" valign="middle">
 
 ### Get in touch! ♡
 
 [Discord](https://discord.gg/srnaz) · [LinkedIn](https://linkedin.com/in/serenazaarour) · [Email](mailto:serenazaarour@gmail.com) <br><br>
-<i>Coffee chats & more!</i>
-
-  </div>
-  <div align="center" style="width: 30%; float: right;">
-    <img src="coffee.jpg" alt="Get in touch!" width="80%" />
-  </div>
-  <div style="clear: both;"></div>
-</div>
+<i> Coffee chats & more!<i>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="coffee.jpg" alt="Get in touch!" width="80%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
