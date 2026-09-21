@@ -9,7 +9,7 @@ CompE Undergraduate • SWE • Learning AI/ML
 </div>
 
 <table border="0" width="100%">
-  <tr>
+  <tr style="border: none;"
     <td width="70%" valign="top">
 
   ### **.get(about_me):**
@@ -82,7 +82,7 @@ CompE Undergraduate • SWE • Learning AI/ML
 
 ### **.get(contact_info):**
 <table border="0" width="100%">
-  <tr>
+  <tr style="border: none;"
     <td width="70%" align="left" valign="middle">
 
 ### Get in touch! ♡
