@@ -24,7 +24,7 @@ CompE Undergraduate • SWE • Learning AI/ML
   </tr>
 </table>
 
----
+#
 
 ### **.get(tech_stack):**
 
@@ -68,7 +68,7 @@ CompE Undergraduate • SWE • Learning AI/ML
   <img src="https://img.shields.io/badge/LangGraph-1F2328?style=flat-square" alt="LangGraph"/>
 </details>
 
----
+#
 
 ### **.get(contact_info):**
 <table border="0" width="100%">
