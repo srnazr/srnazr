@@ -25,8 +25,6 @@ CompE Undergraduate • SWE • Learning AI/ML
   </tr>
 </table>
 
----
-
 ### **.get(tech_stack):**
 
 <details>
@@ -71,15 +69,6 @@ CompE Undergraduate • SWE • Learning AI/ML
 
 ---
 
-### **.get(stats):**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&border_color=888888#gh-light-mode-only" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=srnazr&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444#gh-dark-mode-only" alt="GitHub Stats" />
-</a>
-
----
-
 ### **.get(contact_info):**
 <table border="0" width="100%">
   <tr style="border: none;">
@@ -95,8 +84,6 @@ CompE Undergraduate • SWE • Learning AI/ML
     </td>
   </tr>
 </table>
-
----
 
 <div align="center">
 <i>Aaaaaand back to work...</i>
