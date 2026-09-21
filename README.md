@@ -8,7 +8,7 @@ CompE Undergraduate • SWE • Learning AI/ML
 
 </div>
 
-### **.get(about_me):**
+### **.getAboutMe():**
 <table border="0" width="100%">
   <tr style="border: none;">
     <td width="70%" align="left" valign="middle">
@@ -26,7 +26,7 @@ CompE Undergraduate • SWE • Learning AI/ML
 
 #
 
-### **.get(tech_stack):**
+### **.getTechStack():**
 
 <details>
   <summary>𑣲 <b>Languages</b></summary>
@@ -70,7 +70,7 @@ CompE Undergraduate • SWE • Learning AI/ML
 
 #
 
-### **.get(contact_info):**
+### **.getContactInfo():**
 <table border="0" width="100%">
   <tr style="border: none;">
     <td width="70%" align="left" valign="middle">
