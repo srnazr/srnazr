@@ -36,6 +36,7 @@ CompE Undergraduate • SWE • Learning AI/ML
   <img src="https://img.shields.io/badge/Java-1F2328?style=flat-square" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-1F2328?style=flat-square" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-1F2328?style=flat-square" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-1F2328?style=flat-square" alt="SQL"/>
 </details>
 
 <details>
@@ -52,7 +53,7 @@ CompE Undergraduate • SWE • Learning AI/ML
   <br/>
   <img src="https://img.shields.io/badge/Git-1F2328?style=flat-square" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-1F2328?style=flat-square" alt="Docker"/>
-  <img src="https://img.shields.io/badge/MySQL-1F2328?style=flat-square" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1F2328?style=flat-square" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Figma-1F2328?style=flat-square" alt="Figma"/>
   <img src="https://img.shields.io/badge/Blender-1F2328?style=flat-square" alt="Blender"/>
   <img src="https://img.shields.io/badge/Illustrator-1F2328?style=flat-square" alt="Illustrator"/>
